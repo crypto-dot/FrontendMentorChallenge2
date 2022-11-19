@@ -23,15 +23,20 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover states for interactive elements
 
-### Screenshot
+### Screenshots
 
-### Desktop
+## Desktop
+
 <img width="1437" alt="Screen Shot 2022-11-19 at 2 33 05 AM" src="https://user-images.githubusercontent.com/78282234/202842624-be8a6467-6cd0-4119-a603-3690d40dab87.png">
 <img width="1440" alt="Screen Shot 2022-11-19 at 2 33 14 AM" src="https://user-images.githubusercontent.com/78282234/202842634-fa1d149a-f753-41a2-80f3-2ab31f7b5909.png">
-### Tablet
+
+## Tablet
+
 <img width="804" alt="Screen Shot 2022-11-19 at 2 33 44 AM" src="https://user-images.githubusercontent.com/78282234/202842637-43625ab1-a56e-45c6-ac58-4312ea8f7dab.png">
 <img width="800" alt="Screen Shot 2022-11-19 at 2 33 57 AM" src="https://user-images.githubusercontent.com/78282234/202842644-9c2fdff3-9689-48e2-a8e8-04bbb9bfdac6.png">
-### Mobile
+
+## Mobile
+
 <img width="395" alt="Screen Shot 2022-11-19 at 2 34 21 AM" src="https://user-images.githubusercontent.com/78282234/202842647-07315d62-eab9-4723-ace5-7317f467eb04.png">
 <img width="400" alt="Screen Shot 2022-11-19 at 2 34 32 AM" src="https://user-images.githubusercontent.com/78282234/202842650-b0d72e5f-7764-4545-ba22-9a6dde49ad3a.png">
 

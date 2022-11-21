@@ -373,7 +373,7 @@ body {
 @media (max-width:650px) {
     body {
         background-image: url(./assets/image-hero-mobile@2x.webp);
-        background-position: top 68vh center;
+        background-position: top 50vh center;
     }
 
     .section--hero {
@@ -432,7 +432,6 @@ body {
 
     body {
         background-size: 125%;
-        background-position: top 65vh center;
     }
 
     .button {
@@ -443,7 +442,7 @@ body {
 @media (max-width: 328px) {
     body {
         background-size: 130%;
-        background-position: top 65vh center;
+        background-position: top 50vh center;
     }
 }
 
@@ -482,10 +481,5 @@ body {
 
     .h1__hero {
         font-size: 1.5rem;
-    }
-
-
-    body {
-        background-position: top 65vh center;
     }
 }
